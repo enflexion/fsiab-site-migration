@@ -1,0 +1,12 @@
+{
+  "name": "fsiab-site-migration",
+  "version": "1.0.0",
+  "description": "Move your existing Shopify or WordPress/WooCommerce florist website onto your new Flower Store In a Box site: categories, products, images, pages, suburb pages, blog posts and redirects.",
+  "author": {
+    "name": "enflexion (Flower Store In a Box)",
+    "email": "support@enflexion.com.au",
+    "url": "https://www.flowerstoreinabox.com.au"
+  },
+  "homepage": "https://www.flowerstoreinabox.com.au",
+  "keywords": ["florist", "migration", "shopify", "woocommerce", "wordpress", "flower store in a box"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "flowerstoreinabox",
+  "owner": {
+    "name": "enflexion (Flower Store In a Box)",
+    "email": "support@enflexion.com.au"
+  },
+  "plugins": [
+    {
+      "name": "fsiab-site-migration",
+      "source": "./plugins/fsiab-site-migration",
+      "description": "Move your existing Shopify or WordPress/WooCommerce florist website onto your new Flower Store In a Box site: categories, products, images, pages, suburb pages, blog posts and redirects.",
+      "version": "1.0.0"
+    }
+  ]
+}
